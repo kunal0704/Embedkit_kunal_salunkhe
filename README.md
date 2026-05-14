@@ -3,7 +3,7 @@ Name: Kunal Salunkhe
 
 
 ## Build
-gcc ring.c -o ringbuffer
+gcc -Wall -std=c99 ringbuf.c -o ringbuf
 
 ##Run
 ./ringbuffer
