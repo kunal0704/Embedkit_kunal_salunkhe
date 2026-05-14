@@ -1,4 +1,4 @@
-#embedkit -Ring Buffer assignment[D[D[D[D[D[D[D[D[A
+#embedkit -Ring Buffer assignment
 Name: Kunal Salunkhe
 
 
